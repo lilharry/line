@@ -4,6 +4,7 @@ from os import remove
 #constants
 XRES = 500
 YRES = 500
+
 MAX_COLOR = 255
 RED = 0
 GREEN = 1
